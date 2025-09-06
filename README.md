@@ -38,8 +38,8 @@ Welcome to the Ubuntu Image Fetcher
 A tool for mindfully collecting images from the web
 
 Please enter the image URL: https://example.com/ubuntu-wallpaper.jpg
-✓ Successfully fetched: ubuntu-wallpaper.jpg
-✓ Image saved to Fetched_Images/ubuntu-wallpaper.jpg
+ ✓ Successfully fetched: ubuntu-wallpaper.jpg
+ ✓ Image saved to Fetched_Images/ubuntu-wallpaper.jpg
 
 Connection strengthened. Community enriched.
 # Starter Code Structure
